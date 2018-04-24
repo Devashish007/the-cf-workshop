@@ -92,6 +92,7 @@ Resources:
           FromPort: 80
           ToPort: 80
 
+
 Outputs:
   loadBalancerDNSName:
     Description: DNS name for the load balancer
